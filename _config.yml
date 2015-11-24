@@ -65,6 +65,9 @@ pagination_dir: page
 ## Themes: http://hexo.io/themes/
 theme: landscape
 
+# Images
+post_asset_folder: true
+
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 # You can use this:
